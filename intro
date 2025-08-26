@@ -1,0 +1,43 @@
+Deep Learning Repository
+
+Welcome to my Deep Learning journey repository! 🚀
+
+This repo is a collection of my notes, experiments, and practice projects as I begin exploring the world of Deep Learning. My goal is to gradually build a strong foundation, starting from the basics and moving toward more advanced topics and applications.
+
+📌 Goals
+
+Learn the fundamentals of neural networks
+
+Practice with simple models (perceptrons, feedforward networks)
+
+Explore key architectures (CNNs, RNNs, Transformers)
+
+Work on small projects and datasets to gain hands-on experience
+
+Document progress, challenges, and learnings
+
+📂 Repository Structure
+
+Notebooks/ → Jupyter notebooks with code experiments
+
+Notes/ → Concepts, theory, and math summaries
+
+Projects/ → Small projects applying what I’ve learned
+
+Resources/ → Helpful links, papers, and tutorials
+
+🛠 Tools & Frameworks
+
+I will be primarily learning and practicing with:
+
+Python 🐍
+
+NumPy & Pandas (for data handling)
+
+Matplotlib & Seaborn (for visualization)
+
+PyTorch / TensorFlow (for building deep learning models)
+
+🌱 Current Status
+
+I am a beginner in deep learning, so expect lots of learning steps, trial and error, and continuous improvement. This repository will serve as both a study log and a portfolio of my growth in the field.
